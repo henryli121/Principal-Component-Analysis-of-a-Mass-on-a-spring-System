@@ -26,3 +26,5 @@ This project uses Principal Component Analysis (PCA) to track the motion of a ma
     </ol>
   </body>
 </html>
+
+Project report and results are in the CP3.pdf file.
