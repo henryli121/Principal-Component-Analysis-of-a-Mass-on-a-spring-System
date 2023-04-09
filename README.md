@@ -1,5 +1,7 @@
 # Principal-Component-Analysis-of-a-Mass-on-a-spring-System
 This project uses Principal Component Analysis (PCA) to track the motion of a mass on a spring with varying levels of disturbances. The study demonstrates the utility of PCA in analyzing complex systems and provides practical applications for low-rank approximation using Singular Value Decomposition (SVD).
+<h3>Project report CP3.pdf includes all the results and plots</h3>
+
 <!DOCTYPE html>
 <html>
   <body>
@@ -26,5 +28,3 @@ This project uses Principal Component Analysis (PCA) to track the motion of a ma
     </ol>
   </body>
 </html>
-
-Project report and results are in the CP3.pdf file.
